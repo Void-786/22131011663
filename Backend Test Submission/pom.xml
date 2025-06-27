@@ -73,6 +73,11 @@
             <artifactId>byte-buddy</artifactId>
             <version>1.14.13</version>
         </dependency>
+        <dependency>
+            <groupId>com.project</groupId>
+            <artifactId>Logging-Middleware</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
