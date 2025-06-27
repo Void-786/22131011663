@@ -7,6 +7,6 @@
     <packaging>pom</packaging>
     <modules>
         <module>Logging-Middleware</module>
-        <module>UrlShortener</module>
+        <module>Backend Test Submission</module>
     </modules>
 </project>
